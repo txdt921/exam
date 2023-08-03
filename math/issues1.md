@@ -46,3 +46,6 @@ A. 120 B. 85 C. ![](media1/image6.svg) D. ![](media1/image7.svg)
 
 <font color=#1b7b2b> $\frac{a_1(1-q^{6})}{1-q} = 21  \times  \frac{a_1(1-q^{2})}{1-q}$  </font>
 
+
+<font color="green"> $\frac{a_1(1-q^{6})}{1-q} = 21  \times  \frac{a_1(1-q^{2})}{1-q}$  </font>
+
