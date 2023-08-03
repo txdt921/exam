@@ -43,3 +43,7 @@ A. 120 B. 85 C. ![](media1/image6.svg) D. ![](media1/image7.svg)
 故选：C．
 
 【点睛】本题主要考查等比数列的前*n*项和公式的应用，以及整体思想的应用，解题关键是把握![](media1/image8.svg)的关系，从而减少相关量的求解，简化运算．
+
+<font color=#1b7b2b> $\frac{a_1(1-q^{6})}{1-q} = 21  \times  \frac{a_1(1-q^{2})}{1-q}$ 
+</font>
+
