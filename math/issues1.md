@@ -8,4 +8,7 @@ ___
 ![](media1/2.png)
 ![](media1/3.png)
 
-${\color{Green}   \frac{ a_1(1-q^{4}) } {1-q} =21 \times \frac{ a_1(1-q^{2}) } {1-q} }$
+<!--  ${\color{Green}   \frac{ a_1(1-q^{4}) } {1-q} =21 \times \frac{ a_1(1-q^{2}) } {1-q} }$ -->
+<!-- GitHub支持LaTeX颜色显示，但是gitee不支持  -->
+
+$\frac{ a_1(1-q^{4}) } {1-q} =21 \times \frac{ a_1(1-q^{2}) } {1-q}$
